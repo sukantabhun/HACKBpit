@@ -34,5 +34,12 @@
      
 .container { 
           padding: 25px; 
-          background-color: lightblue;
+          background-color: rgb(245, 245, 245);
       } 
+.bg{
+    background-color:black;
+}
+.heading{
+    color: white;
+    font-family: bree serif;
+}
